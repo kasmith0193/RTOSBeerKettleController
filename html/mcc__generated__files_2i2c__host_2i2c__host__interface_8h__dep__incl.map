@@ -1,0 +1,11 @@
+<map id="mcc_generated_files/i2c_host/i2c_host_interface.h" name="mcc_generated_files/i2c_host/i2c_host_interface.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="61,5,256,48"/>
+<area shape="rect" id="Node000002" href="$mcc__generated__files_2i2c__host_2twi_8h.html" title=" " alt="" coords="88,96,229,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,64,161,96,156,96,156,64"/>
+<area shape="rect" id="Node000003" href="$generated__files_2i2c__host_2src_2twi_8c.html" title="This file contains the API implementations for the TWI module." alt="" coords="5,187,147,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,152,97,188,93,185,127,148"/>
+<area shape="rect" id="Node000004" href="$mcc__generated__files_2system_2system_8h.html" title=" " alt="" coords="171,187,312,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="190,148,224,185,220,188,186,152"/>
+<area shape="rect" id="Node000005" href="$generated__files_2system_2src_2system_8c.html" title="This file contains the API implementation for the System driver." alt="" coords="167,277,316,320"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="244,245,244,277,239,277,239,245"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="mcc/i2c_host_event_types.h" name="mcc/i2c_host_event_types.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="244,5,382,48"/>
+<area shape="rect" id="Node000002" href="$mcc_2twi_8h.html" title=" " alt="" coords="274,96,352,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="316,64,316,95,310,95,310,64"/>
+<area shape="rect" id="Node000003" href="$src_2twi_8c.html" title="This file contains the API implementations for the TWI module." alt="" coords="115,179,215,205"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,133,189,181,187,176,275,128"/>
+<area shape="rect" id="Node000004" href="$mcc_2system_8h.html" title=" " alt="" coords="516,179,620,205"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="368,125,529,176,527,181,366,130"/>
+<area shape="rect" id="Node000007" href="$mcc__twi__interface_8h.html" title=" " alt="" coords="240,171,386,213"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="316,138,316,170,310,170,310,138"/>
+<area shape="rect" id="Node000005" href="$main_8c.html" title=" " alt="" coords="438,360,498,387"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="601,213,623,232,642,255,651,280,650,293,645,305,631,322,614,336,575,356,534,367,499,373,498,367,533,362,573,351,611,331,627,318,640,303,645,292,646,281,638,258,620,236,598,217"/>
+<area shape="rect" id="Node000006" href="$src_2system_8c.html" title="This file contains the API implementation for the System driver." alt="" coords="505,269,631,296"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="570,221,570,269,565,269,565,221"/>
+<area shape="rect" id="Node000008" href="$_l_c_d__interface_8h.html" title=" " alt="" coords="322,261,480,304"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="346,223,383,259,379,263,342,226"/>
+<area shape="rect" id="Node000010" href="$aht21_8h.html" title=" " alt="" coords="5,269,128,296"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="242,222,103,271,101,266,240,217"/>
+<area shape="rect" id="Node000012" href="$mcc__twi__interface_8c.html" title=" " alt="" coords="152,261,298,304"/>
+<area shape="poly" id="edge13_Node000007_Node000012" title=" " alt="" coords="284,226,247,263,244,259,280,223"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="428,315,461,358,456,361,424,318"/>
+<area shape="rect" id="Node000009" href="$_l_c_d__interface_8c.html" title=" " alt="" coords="255,352,414,395"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="379,318,352,353,348,350,374,315"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="125,298,140,301,220,315,284,321,347,330,426,349,445,357,443,362,424,355,346,335,283,327,220,320,139,307,124,303"/>
+<area shape="rect" id="Node000011" href="$aht21_8c.html" title=" " alt="" coords="5,360,128,387"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="69,312,69,359,64,359,64,312"/>
+</map>

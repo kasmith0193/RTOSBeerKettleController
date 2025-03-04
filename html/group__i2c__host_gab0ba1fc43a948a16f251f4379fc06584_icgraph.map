@@ -1,0 +1,11 @@
+<map id="TWI_CallbackRegister" name="TWI_CallbackRegister">
+<area shape="rect" id="Node000001" title="Setter function for I2C interrupt callback. It is called when an error occurs." alt="" coords="447,31,601,57"/>
+<area shape="rect" id="Node000002" href="$group__i2c__host.html#gaf306699edc2b7426576c76dccdcfdd6c" title="Deinitializes the I2C0_Host driver. It disables the I2C0_Host module." alt="" coords="282,5,399,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="432,34,399,29,400,24,432,29"/>
+<area shape="rect" id="Node000003" href="$group__i2c__host.html#ga610d5605f24761cda903c7d05b18bdbe" title="Initializes the I2C0_Host driver." alt="" coords="290,56,391,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="432,59,392,65,391,60,432,54"/>
+<area shape="rect" id="Node000004" href="$group__systemdriver.html#ga5e8391114a0cf91ac20002be25e3d352" title="Initializes the System module. This routine is called only once during system initialization,..." alt="" coords="103,56,234,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="274,72,234,72,234,67,274,67"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,72,55,72,55,67,87,67"/>
+</map>

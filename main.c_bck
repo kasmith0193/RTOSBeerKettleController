@@ -1,0 +1,37 @@
+/*
+ * iot_testbench.c
+ *
+ * Created: 9/3/2024 7:28:50 PM
+ * Author : kasmi
+ */ 
+
+#include <avr/io.h>
+#include <avr/wdt.h>
+#include <avr/eeprom.h>
+#include <util/delay.h>
+#include <string.h>
+#include "freertos/include/FreeRTOSConfig.h"
+#include "freertos/include/FreeRTOS.h"
+
+
+
+
+int main(void)
+{
+	char *str = "Kevin";
+
+	eeprom_write_block(str, 0X00000000, strlen(str));
+	
+	//set pin to output
+	DDRB |= (1 << DDB5);
+    /* Replace with your application code */
+    while (1) 
+    {
+		//XOR LED ON/OFF
+		PORTB ^= (1 << PORTB5);
+		_delay_ms(1000);
+		
+		
+    }
+}
+

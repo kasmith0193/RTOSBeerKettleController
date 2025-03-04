@@ -1,0 +1,5 @@
+<map id="TWI_WriteRead" name="TWI_WriteRead">
+<area shape="rect" id="Node000001" title="Writes data from the writeData to the bus and then reads data from the Client and stores the received..." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="Node000002" href="$group__i2c__host.html#gab572e44e3c3079ef39c7af1941f1517c" title="Checks if I2C is busy." alt="" coords="168,5,262,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,16,152,16,152,21,120,21"/>
+</map>

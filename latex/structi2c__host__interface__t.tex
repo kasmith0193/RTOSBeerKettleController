@@ -1,0 +1,63 @@
+\doxysection{i2c\+\_\+host\+\_\+interface\+\_\+t Struct Reference}
+\hypertarget{structi2c__host__interface__t}{}\label{structi2c__host__interface__t}\index{i2c\_host\_interface\_t@{i2c\_host\_interface\_t}}
+
+
+Structure containing the function pointers of I2C driver.  
+
+
+
+
+{\ttfamily \#include $<$i2c\+\_\+host\+\_\+interface.\+h$>$}
+
+
+
+Collaboration diagram for i2c\+\_\+host\+\_\+interface\+\_\+t\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{structi2c__host__interface__t__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{structi2c__host__interface__t_ae1b02ab68d4242f15ecd9d5458e5caa8}\label{structi2c__host__interface__t_ae1b02ab68d4242f15ecd9d5458e5caa8} 
+void(\texorpdfstring{$\ast$}{*} {\bfseries Initialize} )(void)
+\item 
+\Hypertarget{structi2c__host__interface__t_aac581bf7995197b9b9c6098041113d70}\label{structi2c__host__interface__t_aac581bf7995197b9b9c6098041113d70} 
+void(\texorpdfstring{$\ast$}{*} {\bfseries Deinitialize} )(void)
+\item 
+\Hypertarget{structi2c__host__interface__t_a3404b3851b5a08b60eabfe9f9a6eb115}\label{structi2c__host__interface__t_a3404b3851b5a08b60eabfe9f9a6eb115} 
+bool(\texorpdfstring{$\ast$}{*} {\bfseries Write} )(uint16\+\_\+t address, uint8\+\_\+t \texorpdfstring{$\ast$}{*}data, size\+\_\+t data\+Length)
+\item 
+\Hypertarget{structi2c__host__interface__t_aa1e1b764580a3f51beaa7b6f250ee22c}\label{structi2c__host__interface__t_aa1e1b764580a3f51beaa7b6f250ee22c} 
+bool(\texorpdfstring{$\ast$}{*} {\bfseries Read} )(uint16\+\_\+t address, uint8\+\_\+t \texorpdfstring{$\ast$}{*}data, size\+\_\+t data\+Length)
+\item 
+\Hypertarget{structi2c__host__interface__t_ab68acbb684f48b07d7b46b39431c3264}\label{structi2c__host__interface__t_ab68acbb684f48b07d7b46b39431c3264} 
+bool(\texorpdfstring{$\ast$}{*} {\bfseries Write\+Read} )(uint16\+\_\+t address, uint8\+\_\+t \texorpdfstring{$\ast$}{*}write\+Data, size\+\_\+t write\+Length, uint8\+\_\+t \texorpdfstring{$\ast$}{*}read\+Data, size\+\_\+t read\+Length)
+\item 
+\Hypertarget{structi2c__host__interface__t_a3c0d8361be12d0f8612b03e05fda2288}\label{structi2c__host__interface__t_a3c0d8361be12d0f8612b03e05fda2288} 
+bool(\texorpdfstring{$\ast$}{*} {\bfseries Transfer\+Setup} )(struct \mbox{\hyperlink{struct_i2_c___t_r_a_n_s_f_e_r___s_e_t_u_p}{I2\+C\+\_\+\+TRANSFER\+\_\+\+SETUP}} \texorpdfstring{$\ast$}{*}setup, uint32\+\_\+t src\+Clk\+Freq)
+\item 
+\Hypertarget{structi2c__host__interface__t_a65d7263c872a14228c3cb74300eaea25}\label{structi2c__host__interface__t_a65d7263c872a14228c3cb74300eaea25} 
+\mbox{\hyperlink{group__i2c__host__types_gab20402aa2e2bbb445e68859dab0c4111}{i2c\+\_\+host\+\_\+error\+\_\+t}}(\texorpdfstring{$\ast$}{*} {\bfseries Error\+Get} )(void)
+\item 
+\Hypertarget{structi2c__host__interface__t_a51cbcfcd295040ec4c29935891c260c9}\label{structi2c__host__interface__t_a51cbcfcd295040ec4c29935891c260c9} 
+bool(\texorpdfstring{$\ast$}{*} {\bfseries Is\+Busy} )(void)
+\item 
+\Hypertarget{structi2c__host__interface__t_a347adb191532bf4b61bc5952f74c3b86}\label{structi2c__host__interface__t_a347adb191532bf4b61bc5952f74c3b86} 
+void(\texorpdfstring{$\ast$}{*} {\bfseries Callback\+Register} )(void(\texorpdfstring{$\ast$}{*}callback)(void))
+\item 
+\Hypertarget{structi2c__host__interface__t_aebf805f462d37d0fbdb7499935dc4e2c}\label{structi2c__host__interface__t_aebf805f462d37d0fbdb7499935dc4e2c} 
+void(\texorpdfstring{$\ast$}{*} {\bfseries Tasks} )(void)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Structure containing the function pointers of I2C driver. 
+
+Section\+: Included Files 
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+i2c\+\_\+host\+\_\+interface.\+h\end{DoxyCompactItemize}

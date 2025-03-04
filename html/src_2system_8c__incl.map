@@ -1,0 +1,32 @@
+<map id="mcc/src/system.c" name="mcc/src/system.c">
+<area shape="rect" id="Node000001" title="This file contains the API implementation for the System driver." alt="" coords="126,5,253,32"/>
+<area shape="rect" id="Node000002" href="$mcc_2system_8h.html" title=" " alt="" coords="146,80,233,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,33,192,64,187,64,187,33"/>
+<area shape="rect" id="Node000003" href="$utils_2compiler_8h.html" title=" " alt="" coords="155,304,272,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="146,98,111,103,74,113,39,130,12,156,8,167,12,181,28,222,40,237,58,254,98,279,142,296,140,301,96,284,55,258,36,241,23,225,7,182,3,167,7,153,36,126,72,108,110,98,145,93"/>
+<area shape="rect" id="Node000005" href="$mcc_2config__bits_8h.html" title=" " alt="" coords="22,155,117,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="170,109,105,149,102,144,167,105"/>
+<area shape="rect" id="Node000006" href="$mcc_2cpu_8h.html" title=" " alt="" coords="68,229,130,256"/>
+<area shape="poly" id="edge9_Node000002_Node000006" title=" " alt="" coords="184,109,117,217,112,215,180,106"/>
+<area shape="rect" id="Node000007" href="$mcc_2pins_8h.html" title=" " alt="" coords="192,155,256,181"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="198,106,214,139,209,142,193,108"/>
+<area shape="rect" id="Node000009" href="$mcc_2cpuint_8h.html" title=" " alt="" coords="280,155,355,181"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="213,105,283,144,281,149,211,110"/>
+<area shape="rect" id="Node000010" href="$mcc_2twi_8h.html" title=" " alt="" coords="400,155,457,181"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="232,105,386,151,384,156,230,110"/>
+<area shape="rect" id="Node000004" href="$utils_2interrupt__avr8_8h.html" title=" " alt="" coords="158,379,269,405"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="216,331,216,363,211,363,211,331"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="77,181,91,214,86,216,72,183"/>
+<area shape="rect" id="Node000008" href="$mcc_2port_8h.html" title="This file contains enumerations related to the operation of the Pins driver." alt="" coords="182,229,245,256"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="225,182,220,214,215,214,220,181"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="216,257,216,288,211,288,211,257"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="311,183,258,258,233,293,229,290,254,254,307,180"/>
+<area shape="rect" id="Node000011" href="$mcc_2i2c__host__types_8h.html" title=" " alt="" coords="379,304,499,331"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="407,184,386,198,368,215,358,235,357,245,360,255,377,277,399,294,396,298,373,280,355,257,352,245,353,233,364,212,383,194,404,180"/>
+<area shape="rect" id="Node000012" href="$mcc_2i2c__host__interface_8h.html" title=" " alt="" coords="370,229,508,256"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="433,181,438,214,432,214,428,182"/>
+<area shape="rect" id="Node000013" href="$mcc_2i2c__host__event__types_8h.html" title=" " alt="" coords="533,229,692,256"/>
+<area shape="poly" id="edge16_Node000010_Node000013" title=" " alt="" coords="458,178,567,221,565,226,456,183"/>
+<area shape="poly" id="edge15_Node000012_Node000011" title=" " alt="" coords="442,257,442,288,436,288,436,257"/>
+<area shape="poly" id="edge17_Node000013_Node000011" title=" " alt="" coords="583,259,484,300,482,295,581,254"/>
+</map>

@@ -1,0 +1,47 @@
+\doxysection{main.\+c File Reference}
+\hypertarget{main_8c}{}\label{main_8c}\index{main.c@{main.c}}
+{\ttfamily \#include "{}options.\+h"{}}\newline
+{\ttfamily \#include $<$avr/io.\+h$>$}\newline
+{\ttfamily \#include $<$util/delay.\+h$>$}\newline
+{\ttfamily \#include $<$string.\+h$>$}\newline
+{\ttfamily \#include $<$stdint.\+h$>$}\newline
+{\ttfamily \#include "{}freertos/include/\+Free\+RTOS.\+h"{}}\newline
+{\ttfamily \#include "{}mcc/cpu.\+h"{}}\newline
+{\ttfamily \#include "{}mcc/system.\+h"{}}\newline
+{\ttfamily \#include "{}mcc/i2c\+\_\+host\+\_\+types.\+h"{}}\newline
+{\ttfamily \#include "{}mcc/twi.\+h"{}}\newline
+{\ttfamily \#include "{}./src/include/\+LCD\+\_\+interface.\+h"{}}\newline
+{\ttfamily \#include "{}./src/include/aht21.\+h"{}}\newline
+Include dependency graph for main.\+c\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{main_8c__incl}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{main_8c_aab25150c611eb3bcd9efa6945d1ef7f7}\label{main_8c_aab25150c611eb3bcd9efa6945d1ef7f7} 
+\#define {\bfseries LCD\+\_\+\+ADDRESS}~0b100111
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{main_8c_a840291bc02cba5474a4cb46a9b9566fe}\label{main_8c_a840291bc02cba5474a4cb46a9b9566fe} 
+int {\bfseries main} (void)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{main_8c_a91a224427381c38c65e019248b9e536b}\label{main_8c_a91a224427381c38c65e019248b9e536b} 
+LCDObj\+\_\+t {\bfseries my\+LCDObj}
+\item 
+\Hypertarget{main_8c_a467562dd31e827339dcf4256172716fc}\label{main_8c_a467562dd31e827339dcf4256172716fc} 
+aht\+Obj\+\_\+t {\bfseries my\+Aht\+Obj}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+MAIN Generated Driver File 

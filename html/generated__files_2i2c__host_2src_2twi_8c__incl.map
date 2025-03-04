@@ -1,0 +1,33 @@
+<map id="mcc_generated_files/i2c_host/src/twi.c" name="mcc_generated_files/i2c_host/src/twi.c">
+<area shape="rect" id="Node000001" title="This file contains the API implementations for the TWI module." alt="" coords="313,5,454,48"/>
+<area shape="rect" id="Node000002" href="$mcc__generated__files_2i2c__host_2twi_8h.html" title=" " alt="" coords="642,104,703,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="452,46,628,100,626,105,450,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="397,261,471,288"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="390,48,431,246,426,247,385,49"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="308,187,371,213"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="381,49,349,172,344,171,375,48"/>
+<area shape="rect" id="Node000010" href="$generated__files_2system_2utils_2compiler_8h.html" title=" " alt="" coords="172,96,288,139"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="349,51,280,90,278,86,346,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="642,126,566,146,524,164,486,189,462,217,446,248,441,246,458,214,483,185,522,159,564,141,641,121"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="534,261,598,288"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="675,131,668,170,661,193,649,215,629,237,606,255,603,251,626,233,645,212,656,191,663,169,669,130"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="893,187,953,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="705,126,879,182,877,187,703,131"/>
+<area shape="rect" id="Node000006" href="$mcc__generated__files_2i2c__host_2i2c__host__types_8h.html" title=" " alt="" coords="730,261,850,288"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="704,118,770,126,849,138,922,158,950,170,968,185,976,201,975,215,967,228,952,238,913,254,866,265,865,260,911,249,950,234,963,224,970,214,971,202,964,188,947,175,920,163,848,143,769,131,704,124"/>
+<area shape="rect" id="Node000007" href="$mcc__generated__files_2i2c__host_2i2c__host__interface_8h.html" title=" " alt="" coords="497,187,635,213"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="658,133,596,179,593,175,654,129"/>
+<area shape="rect" id="Node000008" href="$mcc__generated__files_2i2c__host_2i2c__host__event__types_8h.html" title=" " alt="" coords="710,187,870,213"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="692,129,761,176,758,180,689,133"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="544,216,471,256,469,251,542,212"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="569,214,569,246,563,246,563,214"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="606,211,737,254,736,259,604,216"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="793,214,793,246,787,246,787,214"/>
+<area shape="poly" id="edge15_Node000010_Node000003" title=" " alt="" coords="172,127,108,137,48,154,26,166,12,179,9,194,19,212,43,229,80,243,126,253,179,261,288,269,381,271,381,277,288,275,178,266,125,259,78,248,40,234,15,215,4,195,7,176,22,161,46,149,107,132,171,122"/>
+<area shape="poly" id="edge16_Node000010_Node000004" title=" " alt="" coords="241,138,263,176,278,195,297,211,328,222,387,236,519,262,518,267,386,241,327,227,294,216,274,199,258,179,236,140"/>
+<area shape="poly" id="edge18_Node000010_Node000009" title=" " alt="" coords="260,137,312,175,309,180,256,141"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="164,187,232,213"/>
+<area shape="poly" id="edge17_Node000010_Node000011" title=" " alt="" coords="224,140,211,173,206,171,219,138"/>
+<area shape="rect" id="Node000012" href="$generated__files_2system_2utils_2interrupt__avr8_8h.html" title=" " alt="" coords="29,187,140,213"/>
+<area shape="poly" id="edge19_Node000010_Node000012" title=" " alt="" coords="194,142,122,181,119,176,191,137"/>
+</map>

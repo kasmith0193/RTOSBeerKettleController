@@ -1,0 +1,33 @@
+<map id="freertos/event_groups.c" name="freertos/event_groups.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="482,5,640,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="225,80,288,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,35,304,82,303,77,503,30"/>
+<area shape="rect" id="Node000003" href="$_free_r_t_o_s_8h.html" title=" " alt="" coords="312,80,452,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="531,35,428,76,426,71,529,30"/>
+<area shape="rect" id="Node000012" href="$task_8h.html" title=" " alt="" coords="639,229,741,256"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="566,32,585,98,602,140,624,180,642,200,662,218,658,222,638,204,620,183,597,142,580,100,561,33"/>
+<area shape="rect" id="Node000014" href="$timers_8h.html" title=" " alt="" coords="634,155,747,181"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="574,31,639,105,671,141,667,145,635,108,570,34"/>
+<area shape="rect" id="Node000015" href="$event__groups_8h.html" title=" " alt="" coords="648,80,804,107"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="591,30,684,71,682,76,589,35"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,155,74,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="315,110,89,157,88,152,314,105"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="98,155,162,181"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="339,110,178,156,177,151,338,105"/>
+<area shape="rect" id="Node000006" href="$_free_r_t_o_s_config_8h.html" title=" " alt="" coords="187,155,319,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="361,110,290,149,287,144,358,105"/>
+<area shape="rect" id="Node000007" href="$projdefs_8h.html" title=" " alt="" coords="343,155,421,181"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="385,107,385,139,380,139,380,107"/>
+<area shape="rect" id="Node000008" href="$portable_8h.html" title=" " alt="" coords="446,155,524,181"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="402,105,456,143,453,147,399,109"/>
+<area shape="rect" id="Node000009" href="$deprecated__definitions_8h.html" title=" " alt="" coords="197,229,359,256"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="450,184,329,226,328,221,448,179"/>
+<area shape="rect" id="Node000010" href="$portmacro_8h.html" title=" " alt="" coords="384,229,474,256"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="477,184,450,219,446,215,473,180"/>
+<area shape="rect" id="Node000011" href="$mpu__wrappers_8h.html" title=" " alt="" coords="498,229,616,256"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="499,180,536,216,532,220,495,184"/>
+<area shape="rect" id="Node000013" href="$list_8h.html" title=" " alt="" coords="666,304,715,331"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="693,257,693,288,688,288,688,257"/>
+<area shape="poly" id="edge14_Node000014_Node000012" title=" " alt="" coords="693,182,693,214,688,214,688,182"/>
+<area shape="poly" id="edge16_Node000015_Node000014" title=" " alt="" coords="722,108,706,142,701,139,718,106"/>
+</map>

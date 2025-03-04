@@ -1,0 +1,14 @@
+<map id="aht_init" name="aht_init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,69,108"/>
+<area shape="rect" id="Node000002" href="$aht21_8c.html#a203cb7fec42a9e1c40b094843f3182a1" title=" " alt="" coords="117,56,224,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,86,101,80,102,85,70,91"/>
+<area shape="rect" id="Node000006" href="$group__i2c__host.html#ga4735eb87ca97ff8a49325b32574373d1" title="Writes the data to a Client on the bus." alt="" coords="129,107,212,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="70,98,114,107,113,112,69,103"/>
+<area shape="rect" id="Node000003" href="$group__i2c__host.html#ga48485c4372046b240377c52a35c9bba1" title="Reads the data from a client on the bus." alt="" coords="272,5,356,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="210,53,259,35,261,40,212,58"/>
+<area shape="rect" id="Node000005" href="$mcc__twi__interface_8c.html#a1f8d8ac913d4d5953b710ec1a6ce676f" title=" " alt="" coords="290,56,339,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="225,67,274,67,274,72,225,72"/>
+<area shape="rect" id="Node000004" href="$group__i2c__host.html#gab572e44e3c3079ef39c7af1941f1517c" title="Checks if I2C is busy." alt="" coords="404,56,499,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="354,30,400,48,398,53,352,35"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="212,113,356,92,389,84,390,90,357,97,213,119"/>
+</map>

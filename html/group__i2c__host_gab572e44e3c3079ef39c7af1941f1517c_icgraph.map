@@ -1,0 +1,20 @@
+<map id="TWI_IsBusy" name="TWI_IsBusy">
+<area shape="rect" id="Node000001" title="Checks if I2C is busy." alt="" coords="532,107,626,133"/>
+<area shape="rect" id="Node000002" href="$group__i2c__host.html#ga48485c4372046b240377c52a35c9bba1" title="Reads the data from a client on the bus." alt="" coords="384,5,469,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="550,98,519,72,482,46,461,35,463,30,485,42,522,68,554,94"/>
+<area shape="rect" id="Node000006" href="$group__i2c__host.html#ga4b24b038f7e3ad41bf3f1d1b7bf90402" title="This is polling function for non interrupt mode." alt="" coords="382,56,471,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="521,104,468,86,470,81,523,99"/>
+<area shape="rect" id="Node000007" href="$group__i2c__host.html#ga9443ecc846cf3423e4731d45255b5d18" title="Writes the data to a Client on the bus." alt="" coords="385,107,468,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="516,123,468,123,468,117,516,117"/>
+<area shape="rect" id="Node000008" href="$group__i2c__host.html#ga4735eb87ca97ff8a49325b32574373d1" title="Writes the data to a Client on the bus." alt="" coords="226,107,309,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="522,140,484,148,427,153,369,148,309,135,310,130,370,143,427,148,483,143,521,135"/>
+<area shape="rect" id="Node000009" href="$group__i2c__host.html#ga3651f0e3021a0f602fac4500b4730a5b" title="Writes data from the writeData to the bus and then reads data from the Client and stores the received..." alt="" coords="369,208,484,235"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="549,145,485,192,455,210,452,205,482,187,546,141"/>
+<area shape="rect" id="Node000003" href="$aht21_8c.html#a203cb7fec42a9e1c40b094843f3182a1" title=" " alt="" coords="214,31,321,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,30,322,38,321,33,368,25"/>
+<area shape="rect" id="Node000004" href="$aht21_8c.html#a58911bead5481fba2791a2d9f6a3ee5e" title=" " alt="" coords="103,81,166,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,66,167,85,165,80,215,61"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,81,55,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,97,55,97,55,92,87,92"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="210,112,166,103,167,98,211,107"/>
+</map>
