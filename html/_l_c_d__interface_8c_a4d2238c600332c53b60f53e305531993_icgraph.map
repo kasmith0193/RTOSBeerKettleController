@@ -1,9 +1,0 @@
-<map id="prep_disp_clear_data" name="prep_disp_clear_data">
-<area shape="rect" id="Node000001" title=" " alt="" coords="352,5,497,32"/>
-<area shape="rect" id="Node000002" href="$_l_c_d__interface_8c.html#aab4d768cc8aa68bf1576211305747a18" title=" " alt="" coords="211,5,304,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="337,21,305,21,305,16,337,16"/>
-<area shape="rect" id="Node000003" href="$_l_c_d__interface_8c.html#a445924ead90e8b56029110dba8b2282b" title=" " alt="" coords="103,5,163,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,21,164,21,164,16,195,16"/>
-<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,5,55,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
-</map>

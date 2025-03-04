@@ -1,9 +1,0 @@
-<map id="freertos/include/portable.h" name="freertos/include/portable.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="152,5,323,32"/>
-<area shape="rect" id="Node000002" href="$deprecated__definitions_8h.html" title=" " alt="" coords="5,80,168,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,35,128,75,125,70,210,30"/>
-<area shape="rect" id="Node000003" href="$portmacro_8h.html" title=" " alt="" coords="192,80,282,107"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,33,240,64,234,64,234,33"/>
-<area shape="rect" id="Node000004" href="$mpu__wrappers_8h.html" title=" " alt="" coords="306,80,424,107"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,30,331,70,328,74,258,35"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="TWI_Read" name="TWI_Read">
-<area shape="rect" id="Node000001" title="Reads the data from a client on the bus." alt="" coords="369,5,454,32"/>
-<area shape="rect" id="Node000002" href="$aht21_8c.html#a203cb7fec42a9e1c40b094843f3182a1" title=" " alt="" coords="214,5,321,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="354,21,322,21,322,16,354,16"/>
-<area shape="rect" id="Node000003" href="$aht21_8c.html#a58911bead5481fba2791a2d9f6a3ee5e" title=" " alt="" coords="103,5,166,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,21,166,21,166,16,198,16"/>
-<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,5,55,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="mcc_generated_files/system/src/cpu.c" name="mcc_generated_files/system/src/cpu.c">
-<area shape="rect" id="Node000001" title="This file contains the API implemenatation for the CPU driver." alt="" coords="11,5,152,48"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,70,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,50,54,83,49,81,68,47"/>
-<area shape="rect" id="Node000003" href="$mcc__generated__files_2system_2cpu_8h.html" title=" " alt="" coords="94,96,160,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="95,47,115,81,110,84,91,50"/>
-</map>

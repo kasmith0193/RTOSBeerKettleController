@@ -1,7 +1,0 @@
-<map id="LCD_inputs" name="LCD_inputs">
-<area shape="rect" id="Node000001" title=" " alt="" coords="30,144,121,171"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,66,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,47,32,82,40,119,48,131,59,142,55,145,44,135,35,121,27,83,28,47"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="94,5,140,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,47,90,121,82,144,77,143,85,119,107,46"/>
-</map>

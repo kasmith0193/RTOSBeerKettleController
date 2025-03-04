@@ -1,5 +1,0 @@
-<map id="TWI_Deinitialize" name="TWI_Deinitialize">
-<area shape="rect" id="Node000001" title="Deinitializes the I2C0_Host driver. It disables the I2C0_Host module." alt="" coords="5,5,123,32"/>
-<area shape="rect" id="Node000002" href="$group__i2c__host.html#gab0ba1fc43a948a16f251f4379fc06584" title="Setter function for I2C interrupt callback. It is called when an error occurs." alt="" coords="171,5,324,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,16,155,16,155,21,123,21"/>
-</map>

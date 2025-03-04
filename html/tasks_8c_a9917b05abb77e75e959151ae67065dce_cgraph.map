@@ -1,9 +1,0 @@
-<map id="vTaskDelay" name="vTaskDelay">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,96,57"/>
-<area shape="rect" id="Node000002" href="$tasks_8c.html#a084d232640bd1d04bcac0b8784417015" title=" " alt="" coords="144,5,266,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,34,128,29,129,34,97,39"/>
-<area shape="rect" id="Node000003" href="$tasks_8c.html#adf830ea0f150fcdfdaa944667137f080" title=" " alt="" coords="145,56,265,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,49,130,54,129,60,96,54"/>
-<area shape="rect" id="Node000004" href="$tasks_8c.html#a54f31e9aef0eb7b87e48c7d68ecc84c1" title=" " alt="" coords="314,56,453,83"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,67,299,67,299,72,265,72"/>
-</map>

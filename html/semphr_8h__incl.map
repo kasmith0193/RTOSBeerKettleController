@@ -1,9 +1,0 @@
-<map id="freertos/include/semphr.h" name="freertos/include/semphr.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,174,32"/>
-<area shape="rect" id="Node000002" href="$queue_8h.html" title=" " alt="" coords="56,80,123,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,33,92,64,87,64,87,33"/>
-<area shape="rect" id="Node000003" href="$task_8h.html" title=" " alt="" coords="61,155,118,181"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,107,92,139,87,139,87,107"/>
-<area shape="rect" id="Node000004" href="$list_8h.html" title=" " alt="" coords="65,229,114,256"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="92,182,92,214,87,214,87,182"/>
-</map>

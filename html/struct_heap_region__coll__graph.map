@@ -1,7 +1,0 @@
-<map id="HeapRegion" name="HeapRegion">
-<area shape="rect" id="Node000001" title=" " alt="" coords="54,96,148,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,66,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="34,47,40,71,51,84,66,93,63,98,47,88,35,73,29,48"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="139,5,196,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,47,140,74,118,97,114,94,136,70,153,45"/>
-</map>

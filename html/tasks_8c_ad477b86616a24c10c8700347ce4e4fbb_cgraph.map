@@ -1,9 +1,0 @@
-<map id="xTaskGenericNotifyWait" name="xTaskGenericNotifyWait">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,168,57"/>
-<area shape="rect" id="Node000002" href="$tasks_8c.html#a084d232640bd1d04bcac0b8784417015" title=" " alt="" coords="216,5,338,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,31,200,26,201,31,168,36"/>
-<area shape="rect" id="Node000003" href="$tasks_8c.html#adf830ea0f150fcdfdaa944667137f080" title=" " alt="" coords="217,56,337,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,52,201,57,201,62,168,57"/>
-<area shape="rect" id="Node000004" href="$tasks_8c.html#a54f31e9aef0eb7b87e48c7d68ecc84c1" title=" " alt="" coords="386,56,525,83"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="337,67,371,67,371,72,337,72"/>
-</map>

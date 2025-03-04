@@ -1,9 +1,0 @@
-<map id="mcc_generated_files/i2c_host/i2c_host_interface.h" name="mcc_generated_files/i2c_host/i2c_host_interface.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="38,5,234,48"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,80,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,51,70,88,67,84,110,47"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="104,96,168,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,49,138,80,133,80,133,49"/>
-<area shape="rect" id="Node000004" href="$mcc__generated__files_2i2c__host_2i2c__host__types_8h.html" title=" " alt="" coords="192,96,312,123"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,46,223,85,220,89,164,51"/>
-</map>

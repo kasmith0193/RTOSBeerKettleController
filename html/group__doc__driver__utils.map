@@ -1,7 +1,0 @@
-<map id="AVR Code utility functions" name="AVR Code utility functions">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,181,120"/>
-<area shape="rect" id="Node000005" href="$group__doc__driver__utils__assert.html" title=" " alt="" coords="229,5,388,32"/>
-<area shape="rect" id="Node000002" href="$group__doc__driver__utils__atomic.html" title=" " alt="" coords="229,56,388,99"/>
-<area shape="rect" id="Node000003" href="$group__doc__driver__utils__compiler.html" title=" " alt="" coords="238,123,379,149"/>
-<area shape="rect" id="Node000004" href="$group__doc__driver__utils__interrupts.html" title=" " alt="" coords="252,173,364,200"/>
-</map>

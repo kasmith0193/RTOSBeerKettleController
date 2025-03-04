@@ -1,9 +1,0 @@
-<map id="xSTATIC_STREAM_BUFFER" name="xSTATIC_STREAM_BUFFER">
-<area shape="rect" id="Node000001" title=" " alt="" coords="36,112,234,139"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,62,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,47,48,67,60,86,76,99,95,109,92,114,73,104,57,90,44,70,36,48"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="108,5,162,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,47,138,112,132,112,132,47"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="206,5,266,32"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,48,223,70,209,90,192,104,173,114,170,109,189,99,205,86,218,67,227,46"/>
-</map>
