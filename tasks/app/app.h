@@ -5,12 +5,19 @@
  *  Author: kasmi
  */ 
 
+#include <stdint.h>
+
 
 #ifndef APP_H_
 #define APP_H_
 
 
+typedef struct appTaskArgs{
+	uint8_t num;
+}appTaskArgs_t;
 
+appTaskArgsInit(appTaskArgs_t*);
 
+appTask(appTaskArgs_t*);
 
 #endif /* APP_H_ */

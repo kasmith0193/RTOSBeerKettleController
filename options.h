@@ -9,7 +9,7 @@
 #ifndef OPTIONS_H_
 #define OPTIONS_H_
 
-#define F_CPU 8000000UL
+#define F_CPU 8000000
 #define LCD_ADDRESS 0b100111 // 7-bit address
 
 

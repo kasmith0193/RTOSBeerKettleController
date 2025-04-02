@@ -25,6 +25,7 @@
  */
 void convert(LCDObj_t * inputs);
 void writeStringAt(LCDObj_t* lcdObj, char* string, uint8_t size, uint8_t address);
+void writeStringCurrent(LCDObj_t* lcdObj, char * string, uint8_t size);
 void clearDisplay(LCDObj_t * lcdObj);
 void prep_func_mode_data(LCDObj_t * lcdObj, bool func4Bit0_8Bit1, bool func1Line0_2Line1, bool font8Bit0_10Bit1);
 void prep_disp_curs_mode_data(LCDObj_t* lcdObj, bool dispOn, bool cursOn, bool cursBlinkOn );
@@ -48,6 +49,8 @@ void LCD_Init(LCDObj_t* lcdObj, uint8_t address7Bit, bool powerOn){
 	//make this where twi.h does not need to be imported
 	lcdObj->writeStringAt = writeStringAt;
 	lcdObj->clear = clearDisplay;
+	lcdObj->writeStringCurrent = writeStringCurrent;
+	asm("nop");
 	
 	// first power up setting
 	if(powerOn == true){
@@ -61,13 +64,20 @@ void LCD_Init(LCDObj_t* lcdObj, uint8_t address7Bit, bool powerOn){
 	prep_func_mode_data(lcdObj, 0 ,1 ,0);
 	convert(lcdObj);
 	twi_write(lcdObj->i2c_address,lcdObj->data, 4);
+	asm("nop");
 
 	
 	//display on, cursor on, flash on
-	prep_disp_curs_mode_data(lcdObj, 1, 0, 0);
+	prep_disp_curs_mode_data(lcdObj, 1, 1, 1);
 	convert(lcdObj);
 	twi_write(lcdObj->i2c_address, lcdObj->data , 4);
-
+	asm("nop");
+	
+	//move to 0
+	prep_goto_ddram_data(lcdObj,0x00);
+	convert(lcdObj);
+	twi_write(lcdObj->i2c_address, lcdObj->data , 4);
+	asm("nop");
 }
 
 /*--------------------------------------------------------------
@@ -78,7 +88,6 @@ void writeStringAt(LCDObj_t* lcdObj, char* string, uint8_t size, uint8_t address
 	// go to defined address
 	prep_goto_ddram_data(lcdObj,address);
 	convert(lcdObj);
-	
 	twi_write(lcdObj->i2c_address, lcdObj->data , 4);
 	
 	//write(i2c_address, convert(,data), 4);
@@ -87,6 +96,15 @@ void writeStringAt(LCDObj_t* lcdObj, char* string, uint8_t size, uint8_t address
 		convert(lcdObj);
 		twi_write(lcdObj->i2c_address, lcdObj->data, 4);
 	}
+}
+
+void writeStringCurrent(LCDObj_t* lcdObj, char* string, uint8_t size){
+	for(uint8_t i = 0; i < size; i++){
+		prep_write_char_data(lcdObj, string[i]);
+		convert(lcdObj);
+		twi_write(lcdObj->i2c_address, lcdObj->data, 4);
+	}
+	
 }
 
 void clearDisplay(LCDObj_t * lcdObj){

@@ -85,6 +85,7 @@ struct LCDOBJ {
 	bool light;
 
 	void (*writeStringAt)(LCDObj_t*, char* string, uint8_t size, uint8_t address);
+	void (*writeStringCurrent)(LCDObj_t*, char* string, uint8_t size);
 	void (*clear)(LCDObj_t* lcdObj);
 };
 /*
